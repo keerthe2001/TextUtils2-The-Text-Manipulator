@@ -1,5 +1,5 @@
 {
-  "homepage": "https://keerthe2001.github.io/textutils2",
+
   "name": "my-first-react",
   "version": "0.1.0",
   "private": true,
@@ -15,8 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+   
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
