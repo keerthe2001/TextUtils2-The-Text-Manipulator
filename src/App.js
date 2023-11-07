@@ -66,9 +66,7 @@ function App() {
       document.body.style.backgroundColor = "rgb(234, 121, 0)";
       showAlert('Dark Green Theme is Enabled!!','success');
     }
-    
   }
-  
   return (
     <>
     {/* <Router> */}
